@@ -1,4 +1,4 @@
-# 📄 Jobio
+# 📄 JobSlate
 
 **Jobio** is your ultimate job-hunting assistant — a smart web app that **tracks your job applications** and even **applies automatically** to new listings across the internet on your behalf.
 
